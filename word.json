@@ -1,0 +1,155 @@
+{
+    "Day1": [
+        {
+            "word": "analyze",
+            "chinese": [
+                "分析"
+            ],
+            "partOfSpeech": "v",
+            "point": 1,
+            "extend": [
+                {
+                    "word": "analysis",
+                    "chinese": [
+                        "分析"
+                    ],
+                    "partOfSpeech": "n"
+                },
+                {
+                    "word": "analyst",
+                    "chinese": [
+                        "分析者"
+                    ],
+                    "partOfSpeech": "n"
+                }
+            ],
+            "example": {
+                "sentence": "After analyzing your business's operating needs we will try to find ways to improve your results.",
+                "chinese": "分析完櫃公司的營運需求後，我們會試圖找出改善成效的方法"
+            },
+            "complement": [
+                {
+                    "word": "make an analysis of",
+                    "chinese": [
+                        "分析(某事物)"
+                    ]
+                }
+            ],
+            "addWord": [
+                {
+                    "word": "operating",
+                    "chinese": [
+                        "操作"
+                    ]
+                },
+                {
+                    "word": "improve",
+                    "chinese": [
+                        "提高"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "anniversary",
+            "chinese": [
+                "週年"
+            ],
+            "partOfSpeech": "n",
+            "point": 1,
+            "extend": [],
+            "example": {
+                "sentence": "This Monday marks the tenth anniversary of the founding of KJ Airline.",
+                "chinese": "本周一正式KJ空創立屆滿十週年。"
+            },
+            "complement": [
+                {
+                    "word": "make an analysis of",
+                    "chinese": [
+                        "分析(某事物)"
+                    ]
+                }
+            ],
+            "addWord": [
+                {
+                    "word": "founding",
+                    "chinese": [
+                        "創立"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "approximately",
+            "chinese": [
+                "大約"
+            ],
+            "point": 2,
+            "partOfSpeech": "adv",
+            "extend": [],
+            "example": {
+                "sentence": "This will take approximately 15 minutes.",
+                "chinese": "這大約會花上十五分鐘的時間。"
+            },
+            "complement": [],
+            "addWord": []
+        },
+        {
+            "word": "attention",
+            "chinese": [
+                "專注力",
+                "專心"
+            ],
+            "point": 2,
+            "partOfSpeech": "n",
+            "extend": [
+                {
+                    "word": "attentive",
+                    "chinese": [
+                        "注意的",
+                        "留心的"
+                    ],
+                    "partOfSpeech": "adj"
+                }
+            ],
+            "example": {
+                "sentence": "I'd like to take a moment to draw your attention to the packet to materials you received at registration this morning",
+                "chinese": "我想花點時間請各位仔細看一下今早註冊時拿到的資料。"
+            },
+            "complement": [
+                {
+                    "word": "pay attention to",
+                    "chinese": [
+                        "留意..."
+                    ]
+                },
+                {
+                    "word": "draw one's attention to",
+                    "chinese": [
+                        "引起某人注意..."
+                    ]
+                },
+                {
+                    "word": "attention to detail",
+                    "chinese": [
+                        "注意細節"
+                    ]
+                }
+            ],
+            "addWord": [
+                {
+                    "word": "materials",
+                    "chinese": [
+                        "材料"
+                    ]
+                },
+                {
+                    "word": "received",
+                    "chinese": [
+                        "已收到"
+                    ]
+                }
+            ]
+        }
+    ]
+}
